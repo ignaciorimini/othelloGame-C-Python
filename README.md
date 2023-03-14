@@ -14,4 +14,6 @@ Es obligatorio hacer una captura siempre que sea posible. Si no es posible hacer
 
 El juego de Othello es un juego de estrategia complejo que requiere de habilidad para anticipar y prever los movimientos del oponente y tener una estrategia sólida para capturar fichas y mantener la ventaja en el tablero.
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://upload.wikimedia.org/wikipedia/commons/8/85/Inicio_del_reversi.png))
+👍
+
+![Inicio_del_reversi](https://user-images.githubusercontent.com/90485317/224862048-ef84efdf-1bef-49b3-9a0b-5c8421fdef9d.png)
