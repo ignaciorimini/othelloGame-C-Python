@@ -8,7 +8,7 @@ El tablero de Othello es un tablero cuadrado de 8x8, con 64 casillas en total. C
 
 El juego comienza con cuatro fichas en el centro del tablero: dos fichas blancas y dos fichas negras dispuestas en forma de cuadrado. Los jugadores se turnan para colocar una ficha en el tablero, con el objetivo de capturar fichas del oponente y convertirlas en su propio color.
 
-![Inicio_del_reversi](https://user-images.githubusercontent.com/90485317/224862048-ef84efdf-1bef-49b3-9a0b-5c8421fdef9d.png)
+              ![Inicio_del_reversi](https://user-images.githubusercontent.com/90485317/224862048-ef84efdf-1bef-49b3-9a0b-5c8421fdef9d.png)
 
 Una captura ocurre cuando una ficha de un jugador es colocada en el tablero de tal manera que una línea recta (horizontal, vertical o diagonal) de fichas del oponente está flanqueada en ambos extremos por la nueva ficha y otra ficha del jugador. Las fichas flanqueadas son entonces capturadas y se colocan del color del jugador que ha hecho la captura.
 
