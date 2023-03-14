@@ -13,3 +13,5 @@ Una captura ocurre cuando una ficha de un jugador es colocada en el tablero de t
 Es obligatorio hacer una captura siempre que sea posible. Si no es posible hacer una captura, se puede pasar el turno al oponente. Si ambos jugadores pasan el turno consecutivamente, el juego termina y se cuentan las fichas. El jugador con más fichas de su color en el tablero gana el juego.
 
 El juego de Othello es un juego de estrategia complejo que requiere de habilidad para anticipar y prever los movimientos del oponente y tener una estrategia sólida para capturar fichas y mantener la ventaja en el tablero.
+
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://upload.wikimedia.org/wikipedia/commons/8/85/Inicio_del_reversi.png))
