@@ -1,5 +1,5 @@
 # othelloGame-C-Python
-# Juego Othello de consola desarrollado en C y en Python para el final de la materia 'Programación 2' de la Licenciatura en Ciencias de la Computación de la UNR.
+## Juego Othello de consola desarrollado en C y en Python para el final de la materia 'Programación 2' de la Licenciatura en Ciencias de la Computación de la UNR.
 
 ## Descripción del juego
 Othello es un juego de estrategia para dos jugadores, también conocido como Reversi. El objetivo del juego es tener más fichas de tu color que el oponente al final del juego.
