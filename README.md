@@ -20,6 +20,12 @@ Por ejemplo, en la siguiente configuración de fichas, el jugador con fichas bla
   <img src="https://i.ibb.co/BGRQ2qd/othello-movement.png" />
 </p>
 
+Si se juega en la posición D6 el tablero quedaría de la siguiente forma:
+
+<p align="center">
+  <img src="https://i.ibb.co/JHR7mTJ/othello-movement2.png" />
+</p>
+
 Es obligatorio hacer una captura siempre que sea posible. Si no es posible hacer una captura, se puede pasar el turno al oponente. Si ambos jugadores pasan el turno consecutivamente, el juego termina y se cuentan las fichas. El jugador con más fichas de su color en el tablero gana el juego.
 
 
