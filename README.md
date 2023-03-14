@@ -1,7 +1,7 @@
 # othelloGame-C-Python
 Juego Othello de consola desarrollado en C y en Python para el final de la materia 'Programación 2' de la Licenciatura en Ciencias de la Computación de la UNR.
 
-Othello es un juego de estrategia para dos jugadores, también conocido como Reversi. El objetivo del juego es tener más fichas de tu color que el oponente al final del juego.
+# Othello es un juego de estrategia para dos jugadores, también conocido como Reversi. El objetivo del juego es tener más fichas de tu color que el oponente al final del juego.
 
 El tablero de Othello es un tablero cuadrado de 8x8, con 64 casillas en total. Cada jugador tiene 32 fichas, de un color oscuro y otro claro, que se colocan en el tablero alternando los colores en las dos casillas centrales del tablero.
 
